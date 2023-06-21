@@ -20,7 +20,6 @@ public class main {
         // Delete top element of Stack
         obj.pop();
         obj.pop();
-
         // print Stack elements
         obj.display();
 

@@ -17,6 +17,7 @@ public class StackUsingLinkedList {
         if (temp == null) {
             System.out.print("\nHeap Overflow");
             return;
+
         }
 
         // initialize data into temp data field
